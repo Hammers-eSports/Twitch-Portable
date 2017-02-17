@@ -1,2 +1,2 @@
-# Twitch-Portable
-A portable application to save on resources for Hammers Streamers
+# Twitch Portable
+### Twitch Tool For Hammers eSports
